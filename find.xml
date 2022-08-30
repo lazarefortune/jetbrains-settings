@@ -13,6 +13,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
+    <mask>*.tpl</mask>
     <mask>*.php</mask>
   </component>
 </application>
