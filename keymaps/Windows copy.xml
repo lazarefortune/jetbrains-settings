@@ -78,6 +78,10 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
