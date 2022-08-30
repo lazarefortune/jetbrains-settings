@@ -3,7 +3,7 @@
     <property name="created">2022-08-09T13:56:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-19T01:59:14</property>
+    <property name="modified">2022-08-30T17:00:39</property>
     <property name="originalScheme">TokyoNightStorm</property>
   </metaInfo>
   <colors>
@@ -1048,7 +1048,6 @@
         <option name="FOREGROUND" value="61bdf2" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="bb9af7" />
@@ -1059,7 +1058,6 @@
         <option name="FOREGROUND" value="f7768e" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY" baseAttributes="" />
     <option name="PROTO_IDENTIFIER">
@@ -1240,8 +1238,8 @@
         <option name="FOREGROUND" value="7aa2f7" />
       </value>
     </option>
-    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.FUNCTION" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
   </attributes>
 </scheme>
