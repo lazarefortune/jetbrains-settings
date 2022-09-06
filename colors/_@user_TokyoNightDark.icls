@@ -4,12 +4,12 @@
     <property name="created">2022-08-09T10:53:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-09-02T15:20:17</property>
+    <property name="modified">2022-09-06T19:22:25</property>
     <property name="originalScheme">TokyoNightDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
@@ -1235,8 +1235,8 @@
         <option name="FOREGROUND" value="7aa2f7" />
       </value>
     </option>
-    <option name="XPATH.FUNCTION" baseAttributes="" />
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
   </attributes>
 </scheme>
