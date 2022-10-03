@@ -1,19 +1,11 @@
 <scheme name="_@user_TokyoNightDark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-08-09T10:53:39</property>
+    <property name="created">2022-10-03T16:00:08</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-10-03T11:30:36</property>
+    <property name="ideVersion">2022.2.2.0.0</property>
+    <property name="modified">2022-10-03T16:06:52</property>
     <property name="originalScheme">TokyoNightDark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="73daca" />
     <option name="ANNOTATIONS_COLOR" value="c0caf5" />
@@ -1045,6 +1037,7 @@
         <option name="FOREGROUND" value="61bdf2" />
       </value>
     </option>
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="bb9af7" />
@@ -1055,6 +1048,7 @@
         <option name="FOREGROUND" value="f7768e" />
       </value>
     </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY" baseAttributes="" />
     <option name="PROTO_IDENTIFIER">
