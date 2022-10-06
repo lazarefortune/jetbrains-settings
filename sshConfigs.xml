@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="vm04.dlpdomain.com" id="1294b0f5-7c86-4117-96e4-8c44f58a2f68" keyPath="C:\Users\lazare.tossou\.ssh\__id_rsa.ppk" port="22" nameFormat="DESCRIPTIVE" username="git" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
