@@ -7,6 +7,7 @@
     </option>
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="TodoConfiguration">
